@@ -1,0 +1,16 @@
+import pyautogui
+
+pyautogui.press("Win")
+pyautogui.sleep(1)
+pyautogui.write("Calculadora", interval= 0.2)
+pyautogui.press("Enter")
+pyautogui.sleep(1.5)
+pyautogui.press("8")
+pyautogui.sleep(1)
+pyautogui.press("+")
+pyautogui.sleep(1)
+pyautogui.press("2")
+pyautogui.sleep(1)
+pyautogui.press("=")
+pyautogui.sleep(5)
+pyautogui.hotkey("alt","f4")
