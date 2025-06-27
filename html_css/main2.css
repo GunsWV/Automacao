@@ -1,0 +1,15 @@
+menu{
+    background-color: rgb(202, 0, 125);
+    color: rgb(189, 14, 224);
+}
+
+body{
+    background-color: rgb(0, 255, 234);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: medium;
+}
+
+footer{
+    background-color: black;
+    color: white;
+}
